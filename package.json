@@ -1,0 +1,14 @@
+{
+    "name": "flare-dom-elements",
+    "version": "0.0.0",
+    "keywords": [
+        "flare"
+    ],
+    "author": "Brian Parra",
+    "contributors": [
+    ],
+    "dependencies": {
+
+    },
+    "main": "src/flare-dom-elements.js"
+}
