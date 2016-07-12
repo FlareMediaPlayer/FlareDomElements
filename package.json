@@ -1,14 +1,23 @@
 {
     "name": "flare-dom-elements",
     "version": "0.0.0",
+    "description" : "A lightweight library to interface with dom objects",
+    "license" : "MIT",
     "keywords": [
-        "flare"
+        "flare media player"
     ],
-    "author": "Brian Parra",
+    "author": {
+        "name" : "Brian Parra",
+        "email" : "develop@brianparra.com"
+    },
     "contributors": [
     ],
     "dependencies": {
 
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/FlareMediaPlayer/FlareDomElements.git"
     },
     "main": "src/flare-dom-elements.js"
 }
